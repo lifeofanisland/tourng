@@ -22,7 +22,7 @@ var PlacesSchema = new Schema ({
 })
 
 //
-var places_ = mongoose.model('events', PlacesSchema);
+var places_ = mongoose.model('places', PlacesSchema);
 //
 module.exports = {
     datetimenow:datetimenow_,
