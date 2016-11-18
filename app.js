@@ -14,7 +14,6 @@ var store = new MongoDBStore(
         clear_interval: 3600
     });
 //
-var Index = require('./controllers/Index');
 var ContentDriver = require('./controllers/ContentDriver');
 
 // all environments
@@ -49,11 +48,7 @@ mongoose.connect('mongodb://' + config.mongo.host + ':' + config.mongo.port + '/
     if (err) {
         console.log('Sorry, there is no mongo db server running.');
     } else {
-
-        //
-        app.all('/', function (req, res, next) {
-            Index.run(req, res, next);
-        });
+        
         //
         app.all('/app/:id',  function (req, res, next) {
             ContentDriver.run(req, res, next);
