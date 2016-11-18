@@ -32,8 +32,8 @@ exports.overview = function () {
     class="i i-hexagon2 i-s-base text-primary hover-rotate"></i> <i\
     class="i i-alarm i-sm text-white"></i> </span> <span\
     class="clear"> <span\
-    class="h3 block m-t-xs text-primary">9:30</span> <small\
-    class="text-muted text-u-c">Meeting</small> </span> </a></div>\
+    class="h3 block m-t-xs text-primary">100</span> <small\
+    class="text-muted text-u-c">Notification</small> </span> </a></div>\
         </div>\
         </div>\
         ';
