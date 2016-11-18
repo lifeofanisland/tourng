@@ -131,8 +131,8 @@
       <file leaf-file-name="home.hjs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/home.hjs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="218" column="40" selection-start-line="218" selection-start-column="40" selection-end-line="218" selection-end-column="40" />
+            <state relative-caret-position="245">
+              <caret line="224" column="42" selection-start-line="224" selection-start-column="42" selection-end-line="224" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -279,6 +279,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tour Engine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tour Engine" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="config" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -386,12 +400,12 @@
       <option name="presentableId" value="Default" />
       <updated>1479394046360</updated>
       <workItem from="1479394048412" duration="7913000" />
-      <workItem from="1479464440077" duration="10768000" />
+      <workItem from="1479464440077" duration="10853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18681000" />
+    <option name="totallyTimeSpent" value="18766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -636,8 +650,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/home.hjs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="218" column="40" selection-start-line="218" selection-start-column="40" selection-end-line="218" selection-end-column="40" />
+        <state relative-caret-position="245">
+          <caret line="224" column="42" selection-start-line="224" selection-start-column="42" selection-end-line="224" selection-end-column="42" />
           <folding />
         </state>
       </provider>
